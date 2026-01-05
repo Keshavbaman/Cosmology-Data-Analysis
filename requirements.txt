@@ -4,3 +4,4 @@ scipy
 emcee
 corner
 pandas
+seaborn
