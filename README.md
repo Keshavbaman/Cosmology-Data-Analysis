@@ -1,15 +1,15 @@
 # Statistical Methods for Data Analysis in Cosmology
 
-## 📄 Abstract
+## Abstract
 This project presents a detailed study and application of key statistical techniques essential for cosmological data analysis. Conducted as part of a Summer Internship at the **DS Kothari Research Centre, Miranda House**, this project utilizes Python to analyze cosmological data, providing insights into underlying physical processes.
 
-## 👥 Authors
+## Authors
 * **Ankit Sharma**
 * **Aryan Kumar Mandal**
 * **Keshav Sharma**
 * **Shruti Gera**
 
-## 🛠️ Methodologies Implemented
+## Methodologies Implemented
 This repository contains the analysis for the following statistical techniques as outlined in our project report:
 
 ### 1. Monte Carlo Simulations
@@ -33,7 +33,7 @@ Implemented to estimate parameters of cosmological models by maximizing the like
 Employed to sample from complex probability distributions for parameter estimation.
 * **Results:** Estimation of Hubble constant ($H_0$) and Matter Density ($\Omega_m$).
 
-## 🎓 Supervisors & Acknowledgements
+## Supervisors & Acknowledgements
 * **Supervisors:** Dr. Abha Dev Habib & Dr. Nisha Rani.
 * **Mentorship:** Dr. Akshay Rana.
 * **Institution:** Miranda House, University of Delhi.
