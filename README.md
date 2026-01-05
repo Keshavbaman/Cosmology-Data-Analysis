@@ -1,4 +1,5 @@
 # Statistical Methods for Data Analysis in Cosmology
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ## Abstract
 This project presents a detailed study and application of key statistical techniques essential for cosmological data analysis. Conducted as part of a Summer Internship at the **DS Kothari Research Centre, Miranda House**, this project utilizes Python to analyze cosmological data, providing insights into underlying physical processes.
